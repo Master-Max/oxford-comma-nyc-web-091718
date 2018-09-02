@@ -1,4 +1,5 @@
 def oxford_comma(array)
+  sentence = ""
   if array.size == 2
     sentence = array[0] + " and " + array[1]
   else
