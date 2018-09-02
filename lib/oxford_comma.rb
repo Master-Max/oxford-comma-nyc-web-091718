@@ -8,4 +8,4 @@ def oxford_comma(array)
 end
 
 
-oxford_comma([hi, hello, greetings])
+#oxford_comma([hi, hello, greetings])
