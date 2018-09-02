@@ -3,7 +3,7 @@ def oxford_comma(array)
   
   sentence = array.join(", ")
   
-  
+  sentence = sentence + ", and " + lastWord
 end
 
 
